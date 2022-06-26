@@ -13,5 +13,5 @@
 >     * One to scrape TvMaze and populate the database, Get-operation **/api/v1/TvScraper/UpdateTvShowDb**
 >     * Second endpoint used for testing and retrieves data directly from TvMaze, Get-operation **/api/v1/TvScraper/GetConcenatedShows**
 
-For more information check the code or consult the samples in the repository.
+For more information check the code or consult the samples in the repository, or contact me
 
