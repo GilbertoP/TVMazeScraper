@@ -12,7 +12,7 @@ namespace TvScraper.Repository.Models.DTO
         [JsonProperty("currentPage")]
         public int CurrentPage { get; set; }
 
-        [JsonProperty("TvShows")]
+        [JsonProperty("tvShows")]
         public List<TvShowDb> TvShows { get; set; }
 
     }
